@@ -1,0 +1,265 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+  height: 100%;
+}
+body {
+  background-color: rgb(31, 187, 96)!important;
+  flex-wrap: wrap;
+  margin: 0;
+}
+.header-menu,
+footer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background: #179dbe
+}
+.header-menu {
+  justify-content:flex-start;
+  height: 100px;
+  background: #179dbe;
+  color: #fff;
+}
+h2 {
+  margin: 0 0 8px;
+  font-size: large;
+}
+ul li {
+  display: inline-block;
+  padding: 0 10px;
+  list-style: none;
+}
+aside {
+  flex: 0.4;
+  height: 165px;
+  padding-left: 15px;
+  border-left: 1px solid #666;
+}
+section {
+  flex: 1;
+  padding-right: 15px;
+}
+footer {
+  padding: 0 10px;
+  background: #179dbe;
+
+}
+.testheader{
+  padding: 30px;
+}
+.header{
+  background: #179dbe;
+}
+.testnav{
+  font-size: 25px;
+  forced-color-adjust: #666;
+}
+.imagelogo{
+  float: left;
+  width: 4%;
+  height: 4%;
+}
+.stretch-card>.card {
+  width: 100%;
+  min-width: 100%
+}
+
+body {
+  background-color: #f9f9fa
+}
+
+.flex {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto
+}
+
+.navbartest
+{
+  background: #179dbe;
+  padding : 10px;
+  text-emphasis-color: #f1f1f1;
+ 
+  
+}
+
+
+.accordion_one .panel-group {
+    
+  border: 1px solid #f1f1f1;
+  margin-top:100px;
+  
+  
+}
+
+a:link {
+  text-decoration: none
+}
+
+.accordion_one .panel {
+  background-color: transparent;
+  box-shadow: none;
+  border-bottom: 0px solid transparent;
+  border-radius: 0;
+  margin: 0;
+}
+
+.accordion_one .panel-default {
+  border: 0;
+}
+
+.accordion-wrap .panel-heading {
+  padding: 0px;
+  border-radius: 0px;
+}
+
+h4 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.accordion_one .panel .panel-heading a.collapsed {
+  color: #999999;
+  display: block;
+  padding: 12px 30px;
+  border-top: 0px;
+}
+
+.accordion_one .panel .panel-heading a {
+  display: block;
+  padding: 12px 30px;
+  background: #fff;
+  color: #313131;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.accordion-wrap .panel .panel-heading a {
+  font-size: 14px;
+}
+
+.accordion_one .panel-group .panel-heading+.panel-collapse>.panel-body {
+  border-top: 0;
+  padding-top: 0;
+  padding: 25px 30px 30px 35px;
+  background: #fff;
+  color: #999999;
+}
+
+.img-accordion {
+  width: 81px;
+  float: left;
+  margin-right: 15px;
+  display: block;
+}
+
+.accordion_one .panel .panel-heading a.collapsed:after {
+  content: "\2b";
+  color: #999999;
+  background: #f1f1f1;
+}
+
+.accordion_one .panel .panel-heading a:after, .accordion_one .panel .panel-heading a.collapsed:after {
+  font-family: 'FontAwesome';
+  font-size: 15px;
+  width: 36px;
+ 
+  line-height: 48px;
+  text-align: center;
+  background: #F1F1F1;
+  float: left;
+  margin-left: -31px;
+  margin-top: -12px;
+  margin-right: 15px;
+}
+.accordion_one .panel .panel-heading a:after {
+  content: "\2212";
+}
+
+.accordion_one .panel .panel-heading a:after, .accordion_one .panel .panel-heading a.collapsed:after {
+  font-family: 'FontAwesome';
+  font-size: 15px;
+  width: 36px;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  background: #F1F1F1;
+  float: left;
+  margin-left: -31px;
+  margin-top: -12px;
+  margin-right: 15px;
+}
+.stretch-card>.card {
+  width: 100%;
+  min-width: 100%
+}
+
+body {
+  background-color: #f9f9fa
+}
+
+.flex {
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto
+}
+
+@media (max-width:991.98px) {
+  .padding {
+      padding: 1.5rem
+  }
+}
+
+@media (max-width:767.98px) {
+  .padding {
+      padding: 1rem
+  }
+}
+
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
